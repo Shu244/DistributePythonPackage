@@ -1,0 +1,6 @@
+.pytest_cache
+.eggs
+build
+dist
+example_shu244.egg-info
+*.pyc
