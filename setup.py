@@ -6,7 +6,7 @@ setup(
     author="Shuhao Lai",
     author_email="Shuhaolai18@gmail.com",
     description="A small example package",
-    packages=find_packages(include=['exampleproject', 'exampleproject.*']),
+    packages=find_packages(include=['exampleproject', 'exampleproject.*', 'exampleproject2', 'exampleproject2.*']),
     install_requires=[
         'numpy>=1.14.5',
     ],
